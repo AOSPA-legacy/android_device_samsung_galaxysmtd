@@ -1,12 +1,6 @@
 [
   {
     "remote":       "github",
-    "repository":   "AOSPA-legacy/android_device_samsung_galaxysmtd",
-    "target_path":  "device/samsung/galaxysmtd",
-    "revision":     "kitkat"
-  },
-  {
-    "remote":       "github",
     "repository":   "CyanogenMod/android_packages_apps_SamsungServiceMode",
     "target_path":  "packages/apps/SamsungServiceMode",
     "revision":     "cm-11.0"
