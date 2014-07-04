@@ -13,9 +13,9 @@
   },
   {
     "remote":       "github",
-    "repository":   "NamelessRom/android_kernel_samsung_aries",
+    "repository":   "AOSPA-legacy/android_kernel_samsung_aries",
     "target_path":  "kernel/samsung/aries",
-    "revision":     "android-4.4"
+    "revision":     "wip"
   },
   {
     "remote":       "github",
